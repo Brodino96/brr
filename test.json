@@ -1,0 +1,41 @@
+PS C:\Users\brodi\Desktop\brr> bun run src/index.ts
+Server running at http://fissobro.local/brr/
+{
+  type: "info",
+  gameId: 10844,
+  gameName: "Overwatch",
+  gameShortName: "",
+  data: {
+    roster: {
+      roster_1: [Object ...],
+    },
+  },
+}
+
+
+
+{
+  type: "info",
+  gameId: 10844,
+  gameName: "Overwatch",
+  gameShortName: "",
+  data: {
+    roster: {
+      roster_0: [Object ...],
+    },
+  },
+}
+
+
+
+{
+  type: "event",
+  gameId: 10844,
+  gameName: "Overwatch",
+  gameShortName: "",
+  data: {
+    events: [
+      [Object ...]
+    ],
+  },
+}
